@@ -1,6 +1,6 @@
 {
   "name": "multibase",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "JavaScript implementation of the multibase specification",
   "keywords": [
     "IPFS",
@@ -31,8 +31,8 @@
     "release-major": "aegir release --type major"
   },
   "dependencies": {
-    "@multiformats/base-x": "^4.0.1",
-    "web-encoding": "^1.1.0"
+    "@multiformats/base-x": "4.0.1",
+    "web-encoding": "1.1.4"
   },
   "devDependencies": {
     "aegir": "^31.0.0",
